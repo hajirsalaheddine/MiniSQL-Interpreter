@@ -1,4 +1,3 @@
-
 CREATE TABLE Client (
     numClt INT,
     nom VARCHAR(50),
@@ -10,4 +9,5 @@ INSERT INTO Client (numClt, nom) VALUES (2, 'Nasrallah');
 
 SELECT * FROM Client;
 SELECT nom, prenom FROM Client WHERE numClt = 2;
+
 SELECT * FROM Client WHERE age > 30 AND nom = 'Mehdi';
