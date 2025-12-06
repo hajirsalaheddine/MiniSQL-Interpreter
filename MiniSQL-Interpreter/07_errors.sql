@@ -1,6 +1,3 @@
-
-
-
 INSERT INTO Client VALUES (1, 'Alaa', 'Jadallah', 35);
 INSERT NTO Client (numClt, nom) VALUES (2, 'Nasrallah');
 
@@ -15,3 +12,4 @@ DELETE FROM Client WHERE age < 18;
 DELETE F\ROM Client;
 
 DROPp TABLE Client;
+
