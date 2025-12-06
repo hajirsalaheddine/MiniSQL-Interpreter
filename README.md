@@ -1,7 +1,7 @@
 # GLSimpleSQL — Simplified SQL Interpreter
 
 **Course:** Theory of Languages and Compilation – 2025/2026
-**Authors:** @hajirsalaheddine, @merizakferdaousse, @kasrichouayb.
+**Authors:** @hajirsalaheddine, @merizakferdaousse, @kasrichouayb
 **Instructor:** Madame Mouhni Naoual.
  
 ---
