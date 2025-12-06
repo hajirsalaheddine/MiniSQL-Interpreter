@@ -1,4 +1,3 @@
-
 CREATE TABLE Client (
     numClt INT,
     nom VARCHAR(50),
@@ -18,5 +17,6 @@ UPDATE Client SET nom = 'Saif', age = 40 WHERE numClt = 2;
 
 DELETE FROM Client WHERE age < 18;
 DELETE FROM Client;
+
 
 DROP TABLE Client;
