@@ -1,10 +1,5 @@
 # GLSimpleSQL — Simplified SQL Interpreter
 
-**Course:** Theory of Languages and Compilation – 2025/2026
-**Author:** @hajirsalaheddine.
-
----
-
 ## Overview
 
 **GLSimpleSQL** is a **simplified SQL query interpreter** implemented in **C**, designed to analyze and validate SQL queries without connecting to a real database. It demonstrates lexical, syntactic, and semantic analysis using **Flex** and **Bison**, along with detailed error handling and statistics.
